@@ -35,8 +35,13 @@ A lightweight userscript that improves ChatGPT performance in long conversations
    - Violentmonkey
 
 2. Install the script from GreasyFork (or add manually)
+   - [GreasyFork](https://greasyfork.org/en/scripts/570759-gpt-optimum)
 
-3. Open ChatGPT → it works automatically 🎉
+3. Open ChatGPT → it works automatically 🎉  
+
+> ⚠️ If it doesn’t work:
+> - Enable **Allow User Scripts** in your browser/extension settings  
+> - Restart your browser
 
 ---
 
@@ -61,12 +66,6 @@ A floating control panel lets you:
 - Enable aggressive unloading  
 - Turn on debug mode  
 - Control behavior for new chats  
-
----
-
-## 📸 Preview
-
-*(Add screenshots here if you want)*
 
 ---
 
